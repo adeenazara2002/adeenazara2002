@@ -12,7 +12,7 @@ Reach out to me directly through:
 <a href="mailto:adinazara2001@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-  <a href="https://www.linkedin.com/in/adina-zara" target="_blank">
+  <a href="https://www.linkedin.com/in/adina-zara-b78a39256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
