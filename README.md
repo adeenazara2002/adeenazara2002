@@ -1,16 +1,52 @@
-### Hi there 👋
 
-<!--
-**adeenazara2002/adeenazara2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi there! <span class="wave">👋</span></h1>
+<h2>I'm Adina Zara!</h2>
+<p>🚀 Web & Mobile Developer | JavaScript | Flutter | Let's code together! 💻😊</p>
+<div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+
+Reach out to me directly through:
+
+<a href="mailto:adinazara2001@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+  <a href="https://www.linkedin.com/in/adina-zara" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+
+
+### Tech Stack
+
+Here's my tech stack I'm currently used to and prefer:
+
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<!--   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<!--   <img src="https://img.shields.io/badge/laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white" /> -->
+<!--   <img src="https://img.shields.io/badge/postman-E34F26?style=for-the-badge&logo=postman&logoColor=white" /> -->
+<div>
+ 
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
