@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Adina Zara</h1>
-<p>🚀 Web & Mobile Developer | Flutter | JavaScript | Let's coe together! 💻😊</p>
+<p>🚀 Web & Mobile Application Developer | Flutter | JavaScript | Let's code together! 💻😊</p>
 <div>
 
 
