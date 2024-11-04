@@ -3,6 +3,8 @@
 <p>🚀 Web & Mobile Application Developer | Flutter | JavaScript | Let's code together! 💻😊</p>
 <div>
 
+## 🌟 About Me
+I'm a dedicated Flutter developer with with a focus on creating efficient, user-friendly apps. If you ever need my services, feel free to connect with me on any of my social platforms:
 
 ### Contact
 
@@ -14,6 +16,7 @@ Reach out to me directly through:
   <a href="https://www.linkedin.com/in/adina-zara-b78a39256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 
 
 
