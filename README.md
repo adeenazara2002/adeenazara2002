@@ -1,7 +1,7 @@
 
 <h1>Hi there! <span class="wave">👋</span></h1>
 <h2>I'm Adina Zara!</h2>
-<p>🚀 Web & Mobile Developer | JavaScript | Flutter | Let's code together! 💻😊</p>
+<p>🚀 Web & Mobile Developer | Flutter | JavaScript | Let's code together! 💻😊</p>
 <div>
 
 
