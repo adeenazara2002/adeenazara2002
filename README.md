@@ -1,6 +1,5 @@
 
-<h1>Hi there! <span class="wave">👋</span></h1>
-<h2>I'm Adina Zara!</h2>
+<h1 align="center">Hi 👋, I'm Adina Zara</h1>
 <p>🚀 Web & Mobile Developer | Flutter | JavaScript | Let's code together! 💻😊</p>
 <div>
 
