@@ -5,9 +5,8 @@
 
 ## 🌟 About Me
 I'm a dedicated Flutter developer with with a focus on creating efficient, user-friendly apps. If you ever need my services, feel free to connect with me on any of my social platforms:
+
 ![Coding Workspace](https://github.com/adeenazara2002/adeenazara2002/blob/main/gif.gif)
-
-
 
 ### Contact
 
@@ -19,9 +18,6 @@ Reach out to me directly through:
   <a href="https://www.linkedin.com/in/adina-zara-b78a39256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-
-
 
 ### Tech Stack
 
@@ -38,8 +34,6 @@ Here's my tech stack I'm currently used to and prefer:
   <img src="https://img.shields.io/badge/NODEJS-E34F26?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  
-
 
 <div>
  
