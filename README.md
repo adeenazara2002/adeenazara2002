@@ -3,6 +3,9 @@
 <p>🚀 Web & Mobile Application Developer | Flutter | JavaScript | Let's code together! 💻😊</p>
 <div>
 
+🌱 I’m currently learning <b>MERN STACK</b>  
+💬 Feel free to ask me about Flutter 
+
 ## 🌟 About Me
 I'm a dedicated Flutter developer with with a focus on creating efficient, user-friendly apps. If you ever need my services, feel free to connect with me on any of my social platforms:
 
