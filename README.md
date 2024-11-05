@@ -7,7 +7,7 @@
 💬 Feel free to ask me about Flutter 
 
 ## 🌟 About Me
-I'm a dedicated Flutter developer with with a focus on creating efficient, user-friendly apps. If you ever need my services, feel free to connect with me on any of my social platforms:
+I'm a dedicated Flutter developer with a focus on creating efficient, user-friendly apps. If you ever need my services, feel free to connect with me on any of my social platforms:
 
 ![Coding Workspace](https://github.com/adeenazara2002/adeenazara2002/blob/main/gif_file.gif)
 
