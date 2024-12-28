@@ -39,7 +39,10 @@ Here's my tech stack I'm currently used to and prefer:
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 <div>
- 
+
+ ### 🔥 Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=adeenazara2002&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+
 
 
 
